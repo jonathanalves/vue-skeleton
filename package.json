@@ -1,15 +1,10 @@
 {
-  "name": "dashboard-ui-kit",
-  "version": "1.2.0",
+  "name": "Vue Skeleton",
   "private": true,
-  "description": "Powerful UI framework for building responsive web interfaces.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zawia Studio",
-  "license": "ThemeForest Standard License",
-  "homepage": "https://zawiastudio.com/dashboard",
   "devDependencies": {
     "browser-sync": "^2.18.12",
     "gulp": "^3.9.1",
